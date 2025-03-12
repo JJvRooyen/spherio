@@ -2,7 +2,7 @@ import Link from "next/link"
 
 const Navbar = () =>{
     return(
-        <nav className="sticky flex justify-between text-center w-full p-4 border-b border-zinc-200">
+        <nav className="fixed top-0 z-10 sticky flex justify-between text-center w-full p-4 border-b border-zinc-200 bg-white">
             <div className="flex items-center">
                 <h1>Spherio</h1>
             </div>

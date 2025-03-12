@@ -4,6 +4,8 @@ import Hero from "./components/HeroSection"
 import About from "./components/AboutUs";
 import Marquee from "./components/Marquee";
 import Footer from "./components/Footer";
+import Second from "./components/SecondAU";
+import ShowCase from "./components/ProductShowcase";
 
 
 export default function Home() {
@@ -13,6 +15,8 @@ export default function Home() {
       <Hero />
       <About />
       <Marquee />
+      <Second />
+      <ShowCase />
       <Footer />
     </>
   );

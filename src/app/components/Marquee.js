@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Marquee = () => {
     return (
-        <div className="relative overflow-hidden w-full bg-[#4d4bd2] py-4">
+        <div className="relative overflow-hidden w-full bg-[#4d4bd2] py-4 hidden lg:block">
         {/* Fade effect on edges */}
         <div className="absolute inset-0 pointer-events-none" />
 
