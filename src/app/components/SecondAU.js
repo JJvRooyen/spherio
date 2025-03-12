@@ -9,7 +9,7 @@ const Second = () => {
                     <div>
                         <p className="max-w-190 pt-9 pb-6 text-black">
                             With Spherio, writing becomes effortless. Our intuitive AI-powered platform is designed to help you generate ideas, refine your content, and boost creativity—all in one
-                            place. Whether you're crafting articles, stories, or professional documents, Spherio streamlines the process so you can focus on what matters: your message. Experience a
+                            place. Whether you&apos;re crafting articles, stories, or professional documents, Spherio streamlines the process so you can focus on what matters: your message. Experience a
                             smarter way to write with tools built for clarity, efficiency, and inspiration.
                         </p>
                     </div>
